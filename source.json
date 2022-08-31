@@ -1,0 +1,30 @@
+{
+  "name": "Source Name",
+  "identifier": "identifier for your apps example com.appname",
+  "sourceURL": "WebsitePathToJsonfileHere",
+  "apps": [
+    {
+      "name": "AppNameHere",
+      "bundleIdentifier": "AppBundleID",
+      "developerName": "John Doe",
+      "subtitle": "ShortDescription",
+      "version": "0.0.0",
+      "versionDate": "2022-06-15T12:00:00-05:00",
+      "versionDescription": "UpdateDescription",
+      "downloadURL": "DirectDownloadLinkToIPA",
+      "localizedDescription": "AppDescription",
+      "iconURL": "placeholder/icon.512x512.png",
+      "tintColor": "#162434",
+      "size": 36120321,
+      "permissions": [
+        {
+          "type": "Permission name",
+          "usageDescription": "DescriptionOfUsageOfPermission"
+        }
+      ],
+      "screenshotURLs": [
+        "LinkToPhoto1/photo1.jpg",
+        "LinkToPhoto2/photo2.jpg"
+      ]
+    }
+}
