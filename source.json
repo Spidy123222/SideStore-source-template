@@ -8,7 +8,7 @@
       "bundleIdentifier": "AppBundleID",
       "developerName": "John Doe",
       "subtitle": "ShortDescription",
-      "version": "0.0.0",
+      "version": "1.0.0",
       "versionDate": "2022-06-15T12:00:00-05:00",
       "versionDescription": "UpdateDescription",
       "downloadURL": "DirectDownloadLinkToIPA",
