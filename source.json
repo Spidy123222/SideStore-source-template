@@ -1,7 +1,7 @@
 {
   "name": "Source Name",
   "identifier": "identifier for your apps example com.appname",
-  "sourceURL": "WebsitePathToJsonfileHere",
+  "sourceURL": "https://raw.githubusercontent.com/Spidy123222/SideStore-source-template/main/source.json",
   "apps": [
     {
       "name": "AppNameHere",
